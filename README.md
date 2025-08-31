@@ -14,7 +14,7 @@ pip install .
 
 Or install directly without cloning:
 ```sh
-pip install git+git@github.com:harmstonlab/DNAShaPy.git
+pip install git+ssh://git@github.com/harmstonlab/DNAShaPy.git
 ```
 
 **Dependencies:**  
